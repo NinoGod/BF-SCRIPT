@@ -1,2 +1,0 @@
-# BF-SCRIPT
-a
